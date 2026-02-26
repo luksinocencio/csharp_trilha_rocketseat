@@ -7,5 +7,7 @@ class Program
         ConsoleWriteLine.Executar();
         OperacaoComTextos.Executar();
         DataEHora.Executar();
+        Enums.Executar();
+        Variaveis.Executar();
     }
 }
