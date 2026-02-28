@@ -9,5 +9,9 @@ class Program
         DataEHora.Executar();
         Enums.Executar();
         Variaveis.Executar();
+        Arrays.Executar();
+        Listas.Executar();
+        Dicionarios.Executar();
+        HashSets.Executar();
     }
 }
